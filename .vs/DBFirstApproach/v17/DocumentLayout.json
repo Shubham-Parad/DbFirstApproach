@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\",
+  "WorkspaceRootPath": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|c:\\users\\masstech\\source\\repos\\dbfirstapproach\\dbfirstapproach\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\dbfirstapproach\\dbfirstapproach\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\dbfirstapproach\\dbfirstapproach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\dbfirstapproach\\dbfirstapproach\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|c:\\users\\masstech\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\dbfirstapproach\\dbfirstapproach\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|c:\\users\\masstech\\source\\repos\\dbfirstapproach\\dbfirstapproach\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|c:\\users\\masstech\\source\\repos\\dbfirstapproach\\dbfirstapproach\\data\\ecommcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\data\\ecommcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\dbfirstapproach\\dbfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8C7C58-6BC1-4D49-B38F-0A5D59A822D7}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,39 +78,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\Views\\Auth\\Index.cshtml",
-              "RelativeDocumentMoniker": "DBFirstApproach\\Views\\Auth\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\Views\\Auth\\Index.cshtml",
-              "RelativeToolTip": "DBFirstApproach\\Views\\Auth\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T11:01:55.5Z",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DBFirstApproach\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DBFirstApproach\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:20:51.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\Views\\Auth\\SignUp.cshtml",
-              "RelativeDocumentMoniker": "DBFirstApproach\\Views\\Auth\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\Views\\Auth\\SignUp.cshtml",
-              "RelativeToolTip": "DBFirstApproach\\Views\\Auth\\SignUp.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DBFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DBFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T11:00:49.702Z",
+              "WhenOpened": "2024-08-27T11:09:01.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "DBFirstApproach\\Program.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Program.cs",
+              "RelativeToolTip": "DBFirstApproach\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:37:15.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "DBFirstApproach\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Controllers\\AuthController.cs",
               "RelativeToolTip": "DBFirstApproach\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAA3wBQAAAAlAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAADwv20AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T10:52:38.205Z",
               "EditorCaption": ""
@@ -114,14 +131,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EcommContext.cs",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\Data\\EcommContext.cs",
-              "RelativeDocumentMoniker": "DBFirstApproach\\Data\\EcommContext.cs",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\Data\\EcommContext.cs",
-              "RelativeToolTip": "DBFirstApproach\\Data\\EcommContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAkAAAA",
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "DBFirstApproach\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\Models\\LoginModel.cs",
+              "RelativeToolTip": "DBFirstApproach\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T10:35:05.345Z",
+              "WhenOpened": "2024-08-27T10:38:26.804Z",
               "EditorCaption": ""
             }
           ]

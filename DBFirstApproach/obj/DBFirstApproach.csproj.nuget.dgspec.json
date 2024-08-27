@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\DBFirstApproach.csproj": {}
+    "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\DBFirstApproach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\DBFirstApproach.csproj": {
+    "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\DBFirstApproach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\DBFirstApproach.csproj",
+        "projectUniqueName": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\DBFirstApproach.csproj",
         "projectName": "DBFirstApproach",
-        "projectPath": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\DBFirstApproach.csproj",
+        "projectPath": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\DBFirstApproach.csproj",
         "packagesPath": "C:\\Users\\MASSTECH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MASSTECH\\source\\repos\\DBFirstApproach\\DBFirstApproach\\obj\\",
+        "outputPath": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\DBFirstApproach\\DBFirstApproach\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

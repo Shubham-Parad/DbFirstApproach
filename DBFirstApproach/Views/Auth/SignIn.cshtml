@@ -1,0 +1,18 @@
+﻿@model LoginModel
+
+<form method="post">
+    <div class="form-group">
+        <label for="exampleInputEmail1">Username</label>
+        <input type="text" asp-for="Username" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter username">
+        <span class="text-danger text-sm">@TempData["ErrorUsername"]</span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Password</label>
+        <input type="password" asp-for="Password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+        <span class="text-danger text-sm">@TempData["ErrorPassword"]</span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<span>Don't have an Account? <a asp-controller="Auth" asp-action="SignUp">SignUp</a></span>
